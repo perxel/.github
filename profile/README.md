@@ -2,7 +2,7 @@
 
 # Perxel
 
-Independent studio run by **Phúc Bùi** — software engineer specializing in website development.
+Independent studio run by [**Phúc Bùi**](https://github.com/phucbm) — software engineer specializing in website development.
 
 Building creative and business websites since 2018. Working with designers and agencies to turn great designs into websites that actually work — with fluid motion, micro-interactions, and the kind of polish that makes a website feel right.
 
