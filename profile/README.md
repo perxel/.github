@@ -1,12 +1,15 @@
-## Hi there 👋
+<img width="200" height="40" alt="logo" src="https://github.com/user-attachments/assets/0e4ccf8c-75e1-485d-a07f-027e1d617566" />
 
-<!--
+# Perxel
 
-**Here are some ideas to get you started:**
+Independent studio run by **Phúc Bùi** — software engineer specializing in website development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Building creative and business websites since 2018. Working with designers and agencies to turn great designs into websites that actually work — with fluid motion, micro-interactions, and the kind of polish that makes a website feel right.
+
+**What we do**
+- Creative & business websites
+- Design-to-code collaboration
+- Frontend + backend, start to finish
+- Dev partnership for agencies and studios
+
+Website: [perxel.com](https://perxel.com)
